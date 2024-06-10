@@ -1,6 +1,6 @@
-# DevSecOps Pipeline for Secure Software Development
+# DevSecOps Pipeline for Secure Software Development with Jenkins
 
-This repository provides a comprehensive guide to implementing a DevSecOps pipeline for secure software development. The guide covers all stages of the pipeline, including the installation of essential tools, configuration of the environment, integration of security checks, and setting up a CI/CD pipeline.
+This repository provides a comprehensive guide to implementing a DevSecOps pipeline for secure software development. The guide covers all stages of the pipeline, including the installation of essential tools, configuration of the environment, integration of security checks SAST/DAST , SCA and DefectDojo as vulnerability management system , and setting up a CI/CD pipeline with Jenkins.
 
 ## 1. Setting Up the Environment
 
